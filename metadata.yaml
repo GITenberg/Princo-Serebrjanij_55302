@@ -1,0 +1,38 @@
+_repo: Princo-Serebrjanij_55302
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ŝidlovskaja, Maria
+    alias: Шидловская, Мария
+    gutenberg_agent_id: '48270'
+    url: http://www.gutenberg.org/2009/agents/48270
+    wikipedia: https://eo.wikipedia.org/wiki/Maria_%C5%9Cidlovskaja
+creator:
+  author:
+    agent_name: Tolstoy, Aleksey Konstantinovich, graf
+    aliases:
+    - Tolstoy, Alexis Konstantinovich, graf
+    - Tolstoy, Aleksei Konstantinovich, Count
+    - Tolstoy, Alexei Konstantinovich, graf
+    - Толстой, Алексей Константинович, граф
+    - Tolstoy, A. K. (Aleksey Konstantinovich), graf
+    birthdate: 1817
+    deathdate: 1875
+    gutenberg_agent_id: '40704'
+    url: http://www.gutenberg.org/2009/agents/40704
+    wikipedia: http://en.wikipedia.org/wiki/Aleksey_Konstantinovich_Tolstoy
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2017-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55302'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History -- Ivan IV, 1533-1584 -- Fiction'
+- GITenberg
+title: Princo Serebrjanij
+url: http://www.gutenberg.org/ebooks/55302
