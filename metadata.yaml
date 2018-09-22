@@ -7,6 +7,9 @@ contributor:
     gutenberg_agent_id: '48270'
     url: http://www.gutenberg.org/2009/agents/48270
     wikipedia: https://eo.wikipedia.org/wiki/Maria_%C5%9Cidlovskaja
+covers:
+- cover_type: archival
+  image_path: 55302-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Aleksey Konstantinovich, graf
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40704
     wikipedia: http://en.wikipedia.org/wiki/Aleksey_Konstantinovich_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55302#Princo-Serebrjanij
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2017-08-08'
 gutenberg_type: Text
